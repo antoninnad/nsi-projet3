@@ -2,4 +2,12 @@ init game:
 
 ___________________________
 
+Declaration des varaible
 
+
+
+debut du jeu 
+
+_________________________
+
+genere la liste aléatoire si elle n'est pas déjà créé dans le cas contraire on ajoute un nombre aléatoire
