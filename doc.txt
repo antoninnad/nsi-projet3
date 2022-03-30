@@ -10,4 +10,22 @@ debut du jeu
 
 _________________________
 
-genere la liste aléatoire si elle n'est pas déjà créé dans le cas contraire on ajoute un nombre aléatoire
+Genere la liste aléatoire si elle n'est pas déjà créé dans le cas contraire on ajoute un nombre aléatoire.
+Animation de début.
+
+
+click detection
+
+_______________________
+
+une vriable isclicked pour chaque boutton 
+ex:
+bool btn1isclicked = false;
+
+event click => 
+
+if (btn1isclicked == false){
+  btn1isclicked = True;
+} 
+
+mauvaise réponse retour au début
